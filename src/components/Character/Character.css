@@ -1,0 +1,39 @@
+
+.row{
+   width: 90%;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-items: center;
+}
+
+.con{
+    width: 12rem;
+    height: 20rem;
+    margin-left: 30px;
+    margin-top: 5rem;
+    
+}
+
+.card{
+    width: 12rem;
+    height: 20rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: rgba(0,0,0,0.35) 0px 5px 15px ;
+}
+
+.card-img{
+    width: 11rem;
+    height: 12rem;
+    margin: 0 auto;
+    border-radius: 1rem;
+}
+
+.card-body{
+    text-align: center;
+    margin-top: 1rem;
+}
+
+
